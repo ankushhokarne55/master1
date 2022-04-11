@@ -1,0 +1,204 @@
+[{
+    "name": "Tiger Nixon",
+    "department": "Development",
+    "Building": "IND-BLR-TGS",
+    "Floor": "01",
+    "callRecords": [{
+        "name": "susan",
+        "Roomno": "01",
+        "duration": 72,
+        "Room": "Staff",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },{
+        "name": "susan",
+        "Roomno": "02",
+        "duration": 72,
+        "Room": "Support",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },
+    {
+        "name": "susan",
+        "Roomno": "03",
+        "duration": 72,
+        "Room": "Conference",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    }]
+},
+{
+    "name": "Garrett Winters",
+    "department": "HR",
+    "Building": "US-NYC-TGS",
+    "Floor": "02",
+    "callRecords": [{
+        "name": "susan",
+        "Roomno": "01",
+        "duration": 72,
+        "Room": "Cafe",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },{
+        "name": "susan",
+        "Roomno": "02",
+        "duration": 72,
+        "Room": "Play",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },
+    {
+        "name": "susan",
+        "Roomno": "03",
+        "duration": 72,
+        "Room": "Development",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    }]
+},
+{
+    "name": "Ashton Cox",
+    "department": "Security",
+    "Building": "US-APAC-TGS",
+    "Floor": "01",
+    "callRecords": [{
+        "name": "susan",
+        "Roomno": "01",
+        "duration": 72,
+        "Room": "Staff",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },{
+        "name": "susan",
+        "Roomno": "02",
+        "duration": 72,
+        "Room": "Support",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },
+    {
+        "name": "susan",
+        "Roomno": "03",
+        "duration": 72,
+        "Room": "Conference",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    }]
+},
+{
+    "name": "Airi Satau",
+    "department": "Admin",
+    "Building": "IND-BLR-TGS",
+    "Floor": "02",
+    "callRecords": [{
+        "name": "susan",
+        "Roomno": "01",
+        "duration": 72,
+        "Room": "Cafe",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },{
+        "name": "susan",
+        "Roomno": "02",
+        "duration": 72,
+        "Room": "Play",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },
+    {
+        "name": "susan",
+        "Roomno": "03",
+        "duration": 72,
+        "Room": "Development",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    }]
+},
+{
+    "name": "Herold Chandler",
+    "department": "Accounts",
+    "Building": "IND-HYD-TGS",
+    "Floor": "01",
+    "callRecords": [{
+        "name": "susan",
+        "Roomno": "01",
+        "duration": 72,
+        "Room": "Staff",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },{
+        "name": "susan",
+        "Roomno": "02",
+        "duration": 72,
+        "Room": "Support",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },
+    {
+        "name": "susan",
+        "Roomno": "03",
+        "duration": 72,
+        "Room": "Conference",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    }]
+},
+{
+    "name": "Collen Hurst",
+    "department": "Sales",
+    "Building": "IND-BLR-TGS",
+    "Floor": "01",
+    "callRecords": [{
+        "name": "susan",
+        "Roomno": "01",
+        "duration": 72,
+        "Room": "Staff",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },{
+        "name": "susan",
+        "Roomno": "02",
+        "duration": 72,
+        "Room": "Support",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },
+    {
+        "name": "susan",
+        "Roomno": "03",
+        "duration": 72,
+        "Room": "Conference",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    }]
+},
+{
+    "name": "Sonya Frost",
+    "department": "Development",
+    "Building": "US-NYC-TGS",
+    "Floor": "02",
+    "callRecords": [{
+        "name": "susan",
+        "Roomno": "01",
+        "duration": 72,
+        "Room": "Cafe",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },{
+        "name": "susan",
+        "Roomno": "02",
+        "duration": 72,
+        "Room": "Play",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    },
+    {
+        "name": "susan",
+        "Roomno": "03",
+        "duration": 72,
+        "Room": "Development",
+        "direction": "Out",
+        "number": "(00) 88542069"
+    }]
+}
+]
